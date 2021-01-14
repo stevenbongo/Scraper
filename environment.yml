@@ -1,0 +1,5 @@
+name: scrapingEnv
+channels:
+  - defaults
+prefix: C:\Users\Changsik\anaconda3\envs\scrapingEnv
+
